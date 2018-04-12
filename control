@@ -1,0 +1,9 @@
+Package: boot-config
+Version: X
+Section: admin
+Priority: extra
+Architecture: all
+Depends:
+Maintainer: Development <development@optanix.com>
+Description: Websvn fork to package for Xenial (16.04) builds
+ Fork of the WebSVN repository created to package and deploy in 16.04 builds.

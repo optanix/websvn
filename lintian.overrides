@@ -1,0 +1,6 @@
+#
+# DO NOT ADD OVERRIDES WITHOUT APPROVAL!
+#
+
+# for branches with long names
+package-has-long-file-name
