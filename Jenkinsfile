@@ -4,7 +4,7 @@
  * Jenkins pipeline build file.
  *
  * @version $Id$
- * @copyright 2017, Optanix, Inc.  All Rights Reserved
+ * @copyright 2018, Optanix, Inc.  All Rights Reserved
  */
 
 @Library('common-build-lib@master') _
