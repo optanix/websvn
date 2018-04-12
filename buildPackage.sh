@@ -53,7 +53,7 @@ info () {
     fi
 }
 
-package=boot-config
+package=websvn
 revision='HEAD'
 version='2.3.3'
 
