@@ -89,7 +89,7 @@ mkdir pkg-src/DEBIAN
 mkdir -p pkg-src/usr/share/doc/websvn
 mkdir -p pkg-src/usr/share/lintian/overrides
 cp control pkg-src/DEBIAN/
-cp license.txt pkg-src/usr/share/doc/boot-config/copyright
+cp license.txt pkg-src/usr/share/doc/websvn/copyright
 cp lintian.overrides pkg-src/usr/share/lintian/overrides/websvn
 
 info "Moving websvn to dir"
